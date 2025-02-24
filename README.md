@@ -3,8 +3,6 @@
 
 Implementation of a web server for [BLIP Image Captioning](https://huggingface.co/Salesforce/blip-image-captioning-base).
 
-Author: EPFL Center for Imaging
-
 ## Installing the algorithm server with `pip`
 
 Install dependencies:
